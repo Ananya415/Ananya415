@@ -2,31 +2,30 @@
 #### My expertise lies in deep learning, machine learning, and computer vision, with a focus on environmental monitoring and public health.
 
 ![Header](./ananya%20saha.webp)
-https://github.com/Ananya415/Ananya415/blob/main/ananya%20saha.webp
 
 ## 🚀 About Me
 I'm a passionate researcher and developer with a BSc in Computer Science and Engineering from North South University. My expertise lies in deep learning, machine learning, and computer vision, with a focus on environmental monitoring and public health. I love tackling real-world challenges and creating innovative solutions that make a tangible impact.
-<p align="left"> <a href="https://twitter.com/fahim_t2" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_t2?logo=twitter&style=for-the-badge" alt="fahim_t2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ananya_Saha" target="blank"><img src="https://img.shields.io/twitter/follow/Ananya_Saha?logo=twitter&style=for-the-badge" alt="Ananya_Saha" /></a> </p>
 
 </p>
   <p align="center">
-    <a href="https://github.com/MdFahimShahoriar/github-readme-stats/actions">
-            <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/Ananya415/github-readme-stats/actions">
+            <img alt="Tests Passing" src="https://github.com/Ananya415/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/MdFahimShahoriar/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/MdFahimShahoriar/github-readme-stats" />
+    <a href="https://github.com/Ananya415/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ananya415/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/MdFahimShahoriar/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/MdFahimShahoriar/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/Ananya415/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/Ananya415/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/MdFahimShahoriar/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/MdFahimShahoriar/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/Ananya415/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Ananya415/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/MdFahimShahoriar/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MdFahimShahoriar/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/Ananya415/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Ananya415/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/MdFahimShahoriar/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/MdFahimShahoriar/github-readme-stats/badge" />
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/Ananya415/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Ananya415/github-readme-stats/badge" />
     </a>
     <br />
     <br />
@@ -35,11 +34,11 @@ I'm a passionate researcher and developer with a BSc in Computer Science and Eng
 
 
 <h3 align="center">Python | SQL | Edge Computing | JS | HTML | CSS</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdFahimShahoriar&label=Profile%20views&color=0e75b6&style=flat" alt="MdFahimShahoriar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ananya415&label=Profile%20views&color=0e75b6&style=flat" alt="Ananya415" /> </p>
 
 - 🔭 I’m currently working on Research Assistant at North South University under Riasat Khan. 
 - 🌱 I’m currently learning Data Analysis
-- 👨‍💻 All of my projects are available at [https://github.com/TituShahoriar](https://github.com/TituShahoriar)
+- 👨‍💻 All of my projects are available at [https://github.com/TituShahoriar](https://github.com/Ananya415)
 - 📝 I regularly write articles on [//www.linkedin.com/in/fahim-shahoriar/](//www.linkedin.com/in/fahim-shahoriar/)
 - 💬 Ask me about Edge Computing 
 - 📫 How to reach me: Thorugh mail: fahimworks01@gmail.com 
