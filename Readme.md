@@ -1,7 +1,7 @@
-### Hi there 👋, I am Md Fahim Shahoriar Titu
+### Hi there 👋, I am Ananya Saha
 #### My expertise lies in deep learning, machine learning, and computer vision, with a focus on environmental monitoring and public health.
 
-![Header](./image.png)
+![Header](./ananya saha.webp)
 
 ## 🚀 About Me
 I'm a passionate researcher and developer with a BSc in Computer Science and Engineering from North South University. My expertise lies in deep learning, machine learning, and computer vision, with a focus on environmental monitoring and public health. I love tackling real-world challenges and creating innovative solutions that make a tangible impact.
