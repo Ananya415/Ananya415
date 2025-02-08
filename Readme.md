@@ -14,12 +14,15 @@ I'm a passionate researcher and developer with a **BSc in Computer Science and E
 - 🌱 **Learning:** Data Analysis
 - 🔧 **Ask Me About:** Edge Computing
 - 💎 **Fun Fact:** I love discussing geopolitics!
-- 📧 **Reach Me:** [fahimworks01@gmail.com](mailto:fahimworks01@gmail.com)
+- 📧 **Reach Me:** [Ananya](mailto:ananyasaha0437@gmail.com)
 - 🔧 **Projects:** [GitHub Projects](https://github.com/Ananya415)
-- 🖊 **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/fahim-shahoriar/)
+- 🖊 **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/ananya-saha007/)
 
 ## 🔗 Connect with Me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Ananya415) [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/ananya-saha/) [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/Ananya_Saha) [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/ananya_saha/) 
+- [GitHub](https://github.com/Ananya415)  
+- [LinkedIn](https://www.linkedin.com/in/ananya-saha/)  
+- [Twitter](https://twitter.com/Ananya_Saha)  
+- [Instagram](https://www.instagram.com/ananya_saha/)
 
 ## 🕵️ Current Role & Research
 **Research Assistant at North South University under Riasat Khan**
