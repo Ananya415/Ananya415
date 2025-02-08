@@ -70,7 +70,7 @@ In the next five years, I aim to be at the forefront of **AI and robotics resear
 ## 📊 GitHub Stats & Contributions
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya415&show_icons=true&count_private=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya415)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Contributions](https://api.vaunt.dev/v1/github/entities/Ananya415/contributions?format=svg&private=true)](https://github.com/Ananya415)
+
 
 ## 🎨 Featured Projects
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Ananya415/bbfce31e0217a3689c8d961a356cb10d/)
